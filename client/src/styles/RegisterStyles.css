@@ -1,0 +1,42 @@
+
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(bg.PNG);
+    height: 100vh;
+}
+.register-form{
+    background-color: #ffffff;
+
+    border: 1px solid hsl(0, 0%, 50%);
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.email1.email1:hover{
+    border: 2px solid hsla(0, 0%, 50%, 0.677);
+    border-radius: 8px;
+}
+
+.submit{
+    outline: none;
+    border: none;
+    float: right;
+    height: 35px;
+    width: 30%;
+    border-radius: 7px;
+    background-color: #bf0c4f;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.submit:hover{
+    height: 36px;
+    width: 31%;
+    background-color: #df0756;
+}
+
+
+
